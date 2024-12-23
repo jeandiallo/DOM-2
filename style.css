@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  margin-top: 35px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+#color--box {
+  margin-top: 80px;
+  height: 280px;
+  width: 280px;
+  background-color: #1098ad;
+  border: 2px solid black;
+}
+
+button {
+  padding: 20px;
+  background-color: #1098ad;
+  color: rgb(200, 455, 587);
+  border-radius: 18px;
+}
